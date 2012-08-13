@@ -16,7 +16,7 @@
     <div class="lp-frnd-main">
     	<div class="heading-tag">People In Your City</div>
         <ul class="lp-frnd-list">
-            <li><a href="#"><img src="img/img-60x60-1.jpg" alt="" /></a></li>
+            <li><a href="#"><img src="img/img-60x60-1.jpg" alt="" /></a></li>asf asfa fasfas fa fa as asfa
             <li><a href="#"><img src="img/img-60x60-1.jpg" alt="" /></a></li>
             <li><a href="#"><img src="img/img-60x60-1.jpg" alt="" /></a></li>
             <li><a href="#"><img src="img/img-60x60-1.jpg" alt="" /></a></li>
