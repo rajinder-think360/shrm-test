@@ -1,0 +1,57 @@
+#container{
+	padding-top:56px;
+}
+
+a.menu-list{
+	width:125px;
+}
+
+.search-box input {
+	float:none;
+	line-height:20px;	
+}
+
+.search-box button{
+	float:none;
+	height:22px;
+	margin-left:-1px;
+}
+
+.reply-content-rht input[type="text"], .reply-content-rht2 input[type="text"] {
+	line-height:20px;
+}
+
+input.msg-src-box[type="text"] {
+	line-height:28px;
+}
+
+.reply-content-rht input[type="text"], .reply-content-rht2 input[type="text"] {
+	float:left;
+}
+
+.middle-search-block input[type="text"], .album-uploader-form input[type="text"]  {
+	line-height:24px;
+}
+
+.account-box-in2 input[type="text"], .account-box-in2 input[type="password"] {
+	line-height:18px;
+}
+
+.blog-form input[type="text"] {
+	line-height:26px;
+}
+
+.self-block-rht textarea{
+	margin-left:-10px;
+}
+
+textarea.album-text{
+	margin-left:-20px;
+	border:none;
+	border-color:transparent;
+	overflow:auto;
+}
+
+.user-btn{
+	width:80px;
+}
